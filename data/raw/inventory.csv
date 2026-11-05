@@ -1,0 +1,9 @@
+Product_ID,Product,Category,Quantity_Sold,Stock,Unit_Price
+P101,Laptop,Electronics,15,20,50000
+P102,Mouse,Accessories,40,50,500
+P103,Keyboard,Accessories,25,10,1200
+P104,Monitor,Electronics,8,15,12000
+P105,Headphones,Accessories,30,8,2000
+P106,Phone,Electronics,20,25,25000
+P107,Charger,Accessories,50,60,800
+P108,Tablet,Electronics,12,5,18000
